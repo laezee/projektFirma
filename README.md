@@ -3,9 +3,10 @@ PROJEKT FIRMA
 1. Koncept
 	Stworzenie testowego srodowiska firmowego.
 
-2. Podejscia
-	#1 - Zakonczone. Wiecej info w katalogu 'podejsciePierwsze'
-	#2 - Obecne.
+2. Podejscia:
+	1 - Zakonczone. Wiecej info w katalogu 'podejsciePierwsze'
+   
+	2 - Obecne.
 
 3. Cel
 	Nauka administrowania systemem linux, nauka trobleshootingu. Rozwoj w technologiach takich jak:
