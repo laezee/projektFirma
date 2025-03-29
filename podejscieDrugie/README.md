@@ -15,11 +15,11 @@ Plan dzialania:
 	- Instalacja Fedora 41 - DONE
 	- Uzytkownicy - root, admin, uprawnienia - DONE
 	- Siec - DONE
-	- SSH - konfiguracja i hardening - TODO
-	- Fail2ban - konfiguracja/harening - TODO
+	- SSH - konfiguracja i hardening - DONE
+	- Fail2ban - konfiguracja/harening - DONE
 	- Wylaczenie niepotrzebnych uslug i serwisow. - NOT DONE (zainstalowalem z ciekawosci budgie, bo nigdy nie uzywalem, wiec jest bloated i sa smieci)
-	- Ustawienie regul sieciowych - TODO
-	- Instalacja potrzebnego oprogramowania - TODO
+	- Ustawienie regul sieciowych - TODO DZIEN 2
+	- Instalacja potrzebnego oprogramowania - DONE
 		- docker
 		- btop
 		- prometheus
@@ -30,5 +30,32 @@ Plan dzialania:
 	Na szczescie, nie jestem jeszcze spiacy, wiec moge smialo szalec dalej :))
 
 	2. DZIEN 2
-	Zaplanowanie co ma serwer posiadac i dlaczego (w sensie uslugi). Wdrozenie potrzebnych
-	uslug i ich konfiguracja.
+
+	Postawilem portainer_agent, ale selinux wysyla mi alert i blokuje. AVCdenial. Czas na troubleshooting.
+	Trzeba dodac flage --privileged przed postawieniem kontenera. Tylko teraz nie wiem czy to nie jest przypal.
+	Musze ogarnac seLINUX koniecznie
+
+	Dobra, koniec pitolenia. Serwer ma miec:
+	- NFS
+	- Serwer Logow
+	- Chmure
+
+	I usuwam budgie, bo mi sie nie podoba. Wole headless. Ciekawe, ze sie nie wysypalo jak odinstalowalem budgie.
+	Pewnie mialo dane w RAMie. Obejrze sobie film o DJ Ware o seLINUX.
+	Lol - zostal greeter. Tez musze go usunac. 
+	Dobra - ni mo juz lightdm.
+
+
+	3. DZIEN 4
+
+	Rozchorowalem sie i spedzilem ostatnie dni lezac w lozku, sluchajac audiobooka i spiac. To byl dobry czas, ale pora powrocic do roboty.
+	Dzisiaj spoko byloby zajac sie logami i monitorowaniem zdalnym kompa.
+	1. prometheus + grafana
+	2. logi - TODO DZIEN 5
+
+	Dzisiaj pobawie sie z sed, bo juz dostaje SMYRGLA (jak yeti). Nie bede jak malpiszon recznie zmienial nazw plikow. Text Processing i bash scripting to moje kule u nogi.
+	Czas sie nauczyc.
+	Brb
+	
+	
+
