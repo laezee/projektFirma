@@ -57,5 +57,20 @@ Plan dzialania:
 	Czas sie nauczyc.
 	Brb
 	
-	
+	4. DZIEN 5
+
+	Spedzilem duuuzo czasu na zabawie z sed i awk. Pozmienialem nazwy okolo tysiaca plikow -
+	od ksiazek i audiobookow, przez filmy do filmow z yt. To jest hiperdupersuper przydatne.
+	sed, awk i xargs to cuda, ktore powinny wielbic pokolenia przez nastepne tysiaclecia.
+	Dzisiaj jednak zamiast bawic sie z ten symulowany serwer to porobilem rzeczy na swoim.
+	Okazalo sie, ze mam wolne ok. 300GB przestrzeni jak porobie pewne fiku miku, wiec
+	zabralem sie za segregowanie posiaanych plikow. 
+	Mam juz te skrypt, ktory - automatycznie reformatuje nazwe, tworzy dir i przenosi tam
+	odpowiednie pliki. #Stonks
+	W koncu tez sie w domu przyjelo Jellyfin - mimo gadania, ze na co komu takie cos.
+	Okazuje sie, ze jak sie wysypie gruzowy internecik to nagle sie oplaca miec wlasna
+	kolekcje lol xd
+	Pytalem sie czy by nie chcieli, zebym na starym gruziku (jakis notepad) postawil serwer 
+	drukowania, ale odpowiedz taka jak zawsze. Czyli trzeba postawic i po prostu poczekac
+	na "a nie mowilem" xd 	
 
