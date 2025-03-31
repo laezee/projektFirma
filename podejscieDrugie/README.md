@@ -73,4 +73,15 @@ Plan dzialania:
 	Pytalem sie czy by nie chcieli, zebym na starym gruziku (jakis notepad) postawil serwer 
 	drukowania, ale odpowiedz taka jak zawsze. Czyli trzeba postawic i po prostu poczekac
 	na "a nie mowilem" xd 	
+	
+	5. DZIEN 6
+	Dobra. Skonczylem. Jest headless, jest odchudzony, dziala SELinux (to do glebszej nauki).
+	Dziala NFS, dziala monitoring, dziala chmura. Nie robilem nic z logami (oprocz czytania).
 
+
+
+Wnioski:
+
+	Wiecej basha, wiecej manipulowania tekstem, wiecej SELinux, wiecej wszystkeigo.
+	Zamiast robic trzeci serwer musze teraz zajac sie swoim domowy, bo jutro juz bede mial dyski.
+	Czas powalczyc z nazwami plikow + wszystkie pliki
