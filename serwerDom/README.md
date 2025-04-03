@@ -72,6 +72,22 @@ Implementacja:
 
 		- JELLYFIN UPDATING
 		- SSH HARDENING - DONE
+		- FAIL2BAN - DONE, ale jestem na siebie zly. Debilem sie trzeba urodzic, nas nie sieja lol. Ale dziala przynajmniej...
+			- TODO Rozszerzyc na NextCloud i Jellyfin. Na razie tylko SSHD.
+		- POSTAWIC SERWER TRILIUM NOTES - JUZ NIE DZISIAJ
+
+	DZIEN 3.
+	
+	TODO DZISIAJ:
 		- FAIL2BAN
-		- POSTAWIC SERWER TRILIUM NOTES
+			- JellyFin
+			- NextCloud
+		- Serwer Trilium Notes
+		- Serwer kiwix
+			- Archpedia
+			- Gentoopedia
+			- Pobrac wikipedia ENG
+		- Serwer qbittorrent
+		- Migracja plikow
+
 
